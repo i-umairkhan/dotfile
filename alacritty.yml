@@ -3,7 +3,7 @@ font:
   normal:
     family: Cascadia Code
 window:
-  opacity: 0.3
+  opacity: 0.85
   padding:
     x: 15
     y: 15

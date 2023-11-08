@@ -1,2 +1,3 @@
 # dotfiles
-Dot files of applications i use.
+Dot files of applications I use.
+- Alacritty 
